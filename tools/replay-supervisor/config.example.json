@@ -1,0 +1,11 @@
+{
+  "replayPlanPath": "D:/Estudos/Projetos/LLMs/open-physical-ai-lab/tools/open-physical-ai-webots-replay-1783534603226.json",
+  "handDef": "ROBOT_HAND",
+  "objectDefs": {
+    "table-1": "TABLE_1",
+    "phone-1": "PHONE_1",
+    "cup-1": "CUP_1",
+    "box-1": "BOX_1"
+  },
+  "applyObjectRotation": false
+}
