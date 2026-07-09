@@ -148,3 +148,6 @@ npm run build
 7. Fase 7: Integracao inicial de policy aprendida com alternancia de modo de inferencia (implementado).
 8. Fase 8: evoluir para treinamento BC/ACT real no Colab com artefatos versionados.
 9. Fase 9: deploy de policy treinada para inferencia no navegador.
+    
+<img width="1635" height="944" alt="img" src="https://github.com/user-attachments/assets/ffadf72c-228c-43a7-9fd3-ddc5bc7e14b2" />
+
